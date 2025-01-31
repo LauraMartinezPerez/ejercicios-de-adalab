@@ -1,0 +1,27 @@
+/* Selectores de CSS
+clase --> .
+id --> #
+etiqueta
+*/
+
+/*Selectores de clase*/
+
+.title {
+    color:darkcyan;
+}
+.section-start {
+    background-color:bisque;
+    width: 70%;
+}
+
+/*Selectores de etiqueta*/
+
+header {
+    background-color:lightblue
+}
+
+/*Selectores de etiqueta*/
+
+.section-start h2{
+    color:  darksalmon;;
+}
